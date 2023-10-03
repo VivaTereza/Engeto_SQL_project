@@ -1,0 +1,14 @@
+1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+	Vyjma odvětví s kódy H, N, Q, S (kde mzdy v průběhu sledovaných let pouze stoupají) ve všech dalších odvětvích dochází k výkyvům a v průběhu sledovaných let  vždy alespoň jednou dojde k meziročnímu poklesu mzdy.	
+
+2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+	Za první srovnateůné období je možné si koupit cca 1.404 litrů mléka a 1.257 kilogramů chleba. Za poslední srovnatelné období je možné si koupit cca 1.611 litrů mléka a 1.317 kilogramů chleba.
+
+3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+	Nejpomaleji zdražuje kategorie 116103 (banány žluté), a to tempem 0,81%. Ještě můžeme říci, že položky 118101 (cukr krystal) a 117101 (rajská jablka červená kulatá) dokonce meziročně zlevňují (mají záporný meziroční nárůst ceny).
+
+4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+	Ne, takovýto rok neexistuje. Rok, s nejvyšším meziročním nárůstem cen oproti mzdám, byl rok 2008, kdy tento nárůst dělal 8,05%.
+
+5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
+	Otázkou je, co znamená "výraznější růst". Ale berme to jako v předešlé otázce  a výraznějším růstem berme růst nad 10%. A takovýto případ v našem datasetu nemáme. Navíc v případě změn GDP nemáme data dostupná pro všechny roky.
