@@ -92,4 +92,7 @@ percentage_changes AS (
 )
 SELECT *
   FROM percentage_changes
+--   WHERE 
+--  	year_to_year_percent_change > 10
+--   	gdp_year_to_year_percent_change > 10
 ORDER BY data_type, year;
